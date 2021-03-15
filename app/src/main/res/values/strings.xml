@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PhotoGallery</string>
+    <string name="app_name">IMDB Searcher</string>
     <string name="movie_title">Movie Title</string>
     <string name="movie_poster">Movie poster</string>
     <string name="movie_director">Director:</string>
