@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IMDB Searcher</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="movie_director">Director:</string>
+    <string name="movie_plot">Plot:</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Title Search</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="search_error">There was an error while searching for photos. Please try again.</string>
+    <string name="instructions">Welcome to IMDB searcher! Please click on the search tool above to start searching your favorite movies by title.</string>
+</resources>
